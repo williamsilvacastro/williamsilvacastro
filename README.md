@@ -1,8 +1,9 @@
 <p align="center">
   <kbd >
-    <img center alt="Rafa-pic" height="250" src="https://media.discordapp.net/attachments/1000186869386055901/1000186993780727869/download20220705204346.png">
+    <img center alt="will-pic" height="250" src="https://media.discordapp.net/attachments/1000186869386055901/1000186993780727869/download20220705204346.png">
   </kbd>
   <kbd size="3" align="left">
+    <br/>
     👋 Olá Pessoal, Eu sou o William Castro<br/><br/>
     - 🔭 Hoje trabalho como fullstack developer na RaiaDrogasil<br/><br/>
     - 🌱 Estou estudando principalmente Java<br/><br/>
@@ -18,6 +19,7 @@
     <a href="https://instagram.com/nmrl_william" target="_blank">
       <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
     </a>
+    <br/>
   </kbd>
 </p>
 
